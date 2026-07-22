@@ -1,0 +1,17 @@
+title: エリアトラウトログ 開発記録
+description: 全国のエリアトラウト情報サービス「エリアトラウトログ」の開発記録です。
+baseurl: "/areatroutlog-devlog"
+url: "https://diggin104.github.io"
+lang: ja
+theme: minima
+
+minima:
+  skin: classic
+
+author:
+  name: diggin104
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
