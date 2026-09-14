@@ -71,4 +71,4 @@ Google Search Consoleに登録してサイトマップを送信する。あと�
 
 ---
 
-→ **[エリアトラウトログを開く](https://ded2wvhx69u1p.cloudfront.net)**
+→ **[エリアトラウトログを開く](https://areatroutlog.com)**

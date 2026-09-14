@@ -51,4 +51,4 @@ date: 2026-07-22
 
 ---
 
-→ **[エリアトラウトログを開く](https://ded2wvhx69u1p.cloudfront.net)**
+→ **[エリアトラウトログを開く](https://areatroutlog.com)**
